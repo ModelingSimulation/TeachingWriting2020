@@ -1,4 +1,3 @@
-# Communication in the Mathematical Sciences: Teaching, Writing, and Oral Presentation
 
 THIS PAGE IS A STUB -- more information to come soon
 
