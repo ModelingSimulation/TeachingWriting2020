@@ -1,5 +1,3 @@
-test
-
 THIS PAGE IS A STUB -- more information to come soon
 
 ## Course Description
