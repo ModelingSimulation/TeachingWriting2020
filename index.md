@@ -1,7 +1,7 @@
 THIS PAGE IS A STUB -- more information to come soon
 
 ## Class Meetings
-1:25-3:15pm in WWH 512
+Wednesdays 1:25-3:15pm in WWH 512
 
 ## Instructors
 Prof. Corrin Clarkson 
