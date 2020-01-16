@@ -6,12 +6,12 @@ Wednesdays 1:25-3:15pm in WWH 512
 ## Instructors
 Prof. Corrin Clarkson 
 (she / her / her)
-721 CIWW
+721 CIWW,
 clarkson@nyu.edu
 
 Prof. Miranda Holmes-Cerfon 
 (she / her / her)
-1107 CIWW
+1107 CIWW,
 holmes@cims.nyu.edu
 
 
