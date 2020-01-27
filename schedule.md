@@ -49,7 +49,7 @@ Read Case Studies for Today's Classroom - Case (pg. )-->
 ## March 11th
 
 ### Assignments due
-Draft 1 of mathematics paper
+* Draft 1 of mathematics paper
 
 ## March 18th: Spring Break -- No Class
 
@@ -64,19 +64,19 @@ Draft 1 of mathematics paper
 ## April 8th
 
 ### Assignments due
-Draft 2 of mathematics paper
+* Draft 2 of mathematics paper
 
 ## April 15th
 ### Assignments due
 
 ## April 22nd
 ### Assignments due
-Draft 3 of mathematics paper
+* Draft 3 of mathematics paper
 
 ## April 29th
 ### Assignments due
 
 ## Date TBD: Additional class for presentations
 ### Assignments due
-Final draft of mathematics paper
+* Final draft of mathematics paper
 
