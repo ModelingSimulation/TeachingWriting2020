@@ -3,7 +3,7 @@
 ## Site Map
 * [Course Overview](https://modelingsimulation.github.io/TeachingWriting2020/)
 * [Course Schedule](schedule.md)
-* [Resources](/Resources/resources.md) 
+* [Resources](resources.md) 
 
 # Course Overview
 ## Class Meetings
