@@ -8,7 +8,7 @@ See the [Resources Page](/Resources/resources.md) for links to the readings.
 ### Assignments due
 None
 
-## February 5th: Evidence Based Classroom Practices and Sticky Situations
+## February 5th: Evidence Based Classroom Practices
 
 ### Assignments due
 Read MAA Instructional Practices Guide -- Classroom Practices 1 (pg. 1-26)
