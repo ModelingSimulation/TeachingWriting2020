@@ -29,7 +29,7 @@ This seminar-style course will be highly interactive, with much of the learning 
 ## Expectations
 Students enrolled in this course will be expected to attend the class meetings and participate fully in the discussions and activities. Students will also be expected to complete approximately one to two hours of work outside of class each week. This work will include reading and writing assignments, preparing presentations as well as classroom observations. For more detail on assignments, see the [Course Schedule](schedule.md).
 
-Postdocs are encouraged to  audit the course for professional development. Auditors should come to class prepared by doing the assigned reading, and to participate fully in discussions and in-class activies. Auditors will not be ask to submit written assignments and their work will not be graded.
+Postdocs are encouraged to  audit the course for professional development. Auditors will be expected to prepare for class by doing the assigned reading, and to participate fully in discussions and in-class activies. Auditors will not be ask to submit written assignments.
 
 
 
