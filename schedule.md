@@ -16,14 +16,14 @@ None
 ## February 5th: Evidence Based Classroom Practices
 
 ### Assignments due
-Read MAA Instructional Practices Guide -- Classroom Practices 1 (pg. 1-26)
+* Read MAA Instructional Practices Guide -- Classroom Practices 1 (pg. 1-26)
 <!-- ead Teaching at Its Best -- Chapter 10 Perserving Academic Integrity (pg. 162 - 170)
 Read Case Studies for Today's Classroom - Case (pg. )-->
 
-Write a 1 paragraph (~4-6 sentence) description of your current research problem.
-* Imagine this is content you would post on your website
-* Don’t worry about style! Just write. 
-* Email to Miranda at holmes at cims, by Monday Feb 3 (or as early as possible)
+* Write a 1 paragraph (~4-6 sentence) description of your current research problem.
+    * Imagine this is content you would post on your website
+    * Don’t worry about style! Just write. 
+    * Email to Miranda at holmes at cims, by Monday Feb 3 (or as early as possible)
 
 
 ## February 12th: Center for Teaching and Learning Writing Workshop
