@@ -12,6 +12,8 @@ None
 
 ### Assignments due
 Read MAA Instructional Practices Guide -- Classroom Practices 1 (pg. 1-26)
+<!-- ead Teaching at Its Best -- Chapter 10 Perserving Academic Integrity (pg. 162 - 170)
+Read Case Studies for Today's Classroom - Case (pg. )-->
 
 ## February 12th: Center for Teaching and Learning Writing Workshop
 
