@@ -26,3 +26,9 @@ Communication, both oral and written, is essential in academic careers and beyon
 
 This seminar-style course will be highly interactive, with much of the learning occurring through feedback from other students. Students are expected to actively participate during the course time, and to complete several assignments including observing a class, teaching a short class, writing a research report and completing shorter writing exercises. The course is best suited for upper-level PhD students in all areas of mathematics, who have a little experience with teaching and writing in an academic setting but who wish to gain a more structured understanding.
 
+## Expectations
+Students enrolled in this course will be expected to attend the class meetings and participate fully in the discussions and activities. Stuents will also be expected to complete approximately two hours of work outside of class each week. This work will include reading and writing assignments, preparing presentations as well as classroom observations. 
+
+Postdocs are encouraged to autdit the course for professional development. Auditors will be expected to prepare for class by doing the assigned reading. During class, auditors will be expected to participate fully in discussions and inclass activies. Auditors will not be ask to submit written assignments and their work will not be graded. 
+
+
