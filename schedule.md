@@ -23,7 +23,7 @@ Read Case Studies for Today's Classroom - Case (pg. )-->
 Write a 1 paragraph (~4-6 sentence) description of your current research problem.
 * Imagine this is content you would post on your website
 * Don’t worry about style! Just write. 
-* Email to Miranda at holmes@cims.nyu.edu, by Monday Feb 3 (or as early as possible)
+* Email to Miranda at holmes at cims, by Monday Feb 3 (or as early as possible)
 
 
 ## February 12th: Center for Teaching and Learning Writing Workshop
