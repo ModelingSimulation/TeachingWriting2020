@@ -67,5 +67,5 @@ Read Case Studies for Today's Classroom - Case (pg. )-->
 ## April 29th
 ### Assignments due
 
-## Date TBD: Additional class for preseentations
+## Date TBD: Additional class for presentations
 
