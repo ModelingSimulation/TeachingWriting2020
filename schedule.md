@@ -1,3 +1,8 @@
+## Site Map
+* [Course Overview](https://modelingsimulation.github.io/TeachingWriting2020/)
+* [Course Schedule](schedule.md)
+* [Resources](resources.md) 
+
 # Course Schedule
 Wednesdays 1:25-3:15pm in WWH 512
 
