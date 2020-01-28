@@ -8,12 +8,15 @@ Wednesdays 1:25-3:15pm in WWH 512
 
 See the [Resources Page](resources.md) for links to the readings. 
 
-## January 29th: Course Overview
+## January 29th
+* Course Overview
 
 ### Assignments due
 None
 
-## February 5th: Evidence Based Classroom Practices
+## February 5th
+* Evidence Based Classroom Practices
+* Actions and Subjects
 
 ### Assignments due
 * Read MAA Instructional Practices Guide -- Classroom Practices 1 (pg. 1-26)
@@ -26,7 +29,8 @@ Read Case Studies for Today's Classroom - Case (pg. )-->
     * Email to Miranda at holmes at cims, by Monday Feb 3 (or as early as possible)
 
 
-## February 12th: Center for Teaching and Learning Writing Workshop
+## February 12th 
+* Center for Teaching and Learning Writing Workshop
 
 ### Assignments due
 
