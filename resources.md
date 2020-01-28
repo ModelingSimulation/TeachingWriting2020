@@ -18,9 +18,9 @@ This will be the main reference for the writing portion of the course. We highly
 
 ### Other Resources
 * _The Elements of Style,_ by Strunk and White.   
-A classic style manual, and a good way to revise English grammar. Freely available from a number of sources including http://www.gutenberg.org/ebooks/37134. 
+A classic style manual, and a good way to revise English grammar. Freely available from a number of sources including [Project Gutenberg](http://www.gutenberg.org/ebooks/37134).
 * _Stylish Academic Writing,_ by Helen Sword.   
-This book goes beyond what we will cover in class, to give you techniques to write elegantly and stylishly. It is an easy, fun read. Available online with an NYU connection at https://getit.library.nyu.edu/go/9442159. 
+This book goes beyond what we will cover in class, to give you techniques to write elegantly and stylishly. It is an easy, fun read. Available online with an NYU connection at https://getit.library.nyu.edu/go/9442159.
 * _Handbook of Writing for the Mathematical Sciences,_ by Nicholas J. Higham.   
 Available online at with an NYU connection at https://epubs.siam.org/doi/book/10.1137/1.9780898719550. 
 * _The Sense of Style,_ by Steven Pinker.  
