@@ -55,7 +55,7 @@ Read Case Studies for Today's Classroom - Case (pg. )-->
 ### Assignments due
 * Draft 1 of mathematics paper
 
-## March 18th: Spring Break -- No Class
+## March 18th _Spring Break -- No Class_
 
 ## March 25th
 
