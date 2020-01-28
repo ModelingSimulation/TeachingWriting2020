@@ -20,8 +20,6 @@ None
 
 ### Assignments due
 * Read MAA Instructional Practices Guide -- Classroom Practices 1 (pg. 1-26)
-<!-- ead Teaching at Its Best -- Chapter 10 Perserving Academic Integrity (pg. 162 - 170)
-Read Case Studies for Today's Classroom - Case (pg. )-->
 * Write a 1 paragraph (~4-6 sentence) description of your current research problem.
     * Imagine this is content you would post on your website
     * Don’t worry about style! Just write. 
@@ -82,4 +80,7 @@ Read Case Studies for Today's Classroom - Case (pg. )-->
 ## Date TBD: Additional class for presentations
 ### Assignments due
 * Final draft of mathematics paper
+
+<!-- ead Teaching at Its Best -- Chapter 10 Perserving Academic Integrity (pg. 162 - 170)
+Read Case Studies for Today's Classroom - Case (pg. )-->
 
