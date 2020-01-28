@@ -20,7 +20,7 @@ Prof. Miranda Holmes-Cerfon
 (she / her / her)
 1107 CIWW,
 holmes@cims.nyu.edu  
-Office Hours: Tuesdays 4-6pm
+Office Hours: Tuesdays 4-6pm (or by appointment)
 
 
 ## Course Description
