@@ -16,7 +16,7 @@ None
 
 ## February 5th
 * Evidence Based Classroom Practices
-* Actions and Subjects
+* Actions and Characters
 
 ### Assignments due
 * Read MAA Instructional Practices Guide -- Classroom Practices 1 (pg. 1-26)
