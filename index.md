@@ -14,11 +14,13 @@ Prof. Corrin Clarkson
 (she / her / her)
 721 CIWW,
 clarkson@nyu.edu
+Office hours: TBD
 
 Prof. Miranda Holmes-Cerfon 
 (she / her / her)
 1107 CIWW,
 holmes@cims.nyu.edu
+Office Hours: Tuesdays 4-6pm
 
 
 ## Course Description
