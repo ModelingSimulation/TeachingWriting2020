@@ -19,6 +19,7 @@ None
 * Actions and Characters
 
 ### Assignments due
+* Fill out the [Welcome Survey](https://forms.gle/ZZrqRmBiuJ96jjzZA).
 * Read MAA Instructional Practices Guide -- Classroom Practices 1 (pg. 1-26)
 * Write a 1 paragraph (~4-6 sentence) description of your current research problem.
     * Imagine this is content you would post on your website
