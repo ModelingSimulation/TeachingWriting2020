@@ -15,6 +15,8 @@ See the [Resources Page](resources.md) for links to the readings.
 * Calculus 1 Paradox: value added by classroom instruction
 * Observations of teaching strategies employed in the lesson. 
 
+[Slides](https://docs.google.com/presentation/d/1BLNKqJ5mNj_jLiFyyB95VxQL4YkNV46cXY0iTYfOkGQ/edit?usp=sharing)
+
 ### Assignments due
 None
 
