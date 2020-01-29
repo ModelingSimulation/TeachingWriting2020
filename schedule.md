@@ -25,9 +25,9 @@ None
 * Actions and Characters
 
 ### Assignments due
-* Fill out the [Welcome Survey](https://forms.gle/ZZrqRmBiuJ96jjzZA).
+* Fill out the [Welcome Survey](https://forms.gle/ZZrqRmBiuJ96jjzZA). **Due Monday 2/3.**
    * includes a 1 paragraph (~4-6 sentence) description of your current research problem.
-* Read MAA Instructional Practices Guide -- Classroom Practices 1 (pg. 1-26)
+* Read MAA Instructional Practices Guide -- Classroom Practices 1 (pg. 1-26) **Due Wednesday 2/5.**
 
 ## February 12th 
 * Center for Teaching and Learning Writing Workshop
