@@ -9,7 +9,11 @@ Wednesdays 1:25-3:15pm in WWH 512
 See the [Resources Page](resources.md) for links to the readings. 
 
 ## January 29th
-* Course Overview
+* Course Overview: introductions, logistics and goals
+* Examples of bad writing and better witing
+* Review of gramar: noun, verb adjective, nominalization
+* Calculus 1 Paradox: value added by classroom instruction
+* Observations of teaching strategies employed in the lesson. 
 
 ### Assignments due
 None
