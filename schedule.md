@@ -29,6 +29,7 @@ None
 * Fill out the [Welcome Survey](https://forms.gle/ZZrqRmBiuJ96jjzZA). **Due Monday 2/3.**
    * includes a 1 paragraph (~4-6 sentence) description of your current research problem.
 * Read MAA Instructional Practices Guide -- Classroom Practices 1 (pg. 1-26) **Due Wednesday 2/5.**
+* Finish the exercises on Handout 1 (you don't need to hand this in.) 
 
 ## February 12th 
 * Center for Teaching and Learning Writing Workshop
