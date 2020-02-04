@@ -35,6 +35,7 @@ None
 * Center for Teaching and Learning Writing Workshop
 
 ### Assignments due
+* Exercise 4 from Writing Handout 2. 
 
 ## February 19th
 
