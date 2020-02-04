@@ -36,6 +36,7 @@ None
 
 ### Assignments due
 * Exercises from Writing Handout 2 -- _hand in only Exercise 4_
+* (optional but recommended) Read Chapter 3 of Williams & Bizup
 
 ## February 19th
 
