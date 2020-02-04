@@ -16,7 +16,7 @@ See the [Resources Page](resources.md) for links to the readings.
 * Observations of teaching strategies employed in the lesson. 
 
 [Slides](Resources/slides-class1.pdf)  
-[Handout 1 (Writing)](rResources/handout1-nominalizations.pdf)
+[Handout 1 (Writing)](Resources/handout1-nominalizations.pdf)
 
 ### Assignments due
 None
