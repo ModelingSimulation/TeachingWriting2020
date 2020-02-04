@@ -6,7 +6,7 @@
 # Course Schedule
 Wednesdays 1:25-3:15pm in WWH 512
 
-See the [Resources Page](resources.md) for links to the readings. 
+See the [Resources Page](resources.md) for links to the references. 
 
 ## January 29th
 * Course Overview: introductions, logistics and goals
