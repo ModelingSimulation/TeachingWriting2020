@@ -39,7 +39,7 @@ None
 * Center for Teaching and Learning Writing Workshop
 
 ### Assignments due
-* Exercises from Writing Handout 2 -- _hand in Exercise 3 (#s 5,6) and Exercise 4_. 
+* Exercises from Writing Handout 2 -- _hand in Exercise 3 (#s 5,6) and Exercise 4_.   
 Instructions for how to hand these in will be sent by email. 
 * (optional but recommended) Read Chapter 3 of Williams & Bizup
 
