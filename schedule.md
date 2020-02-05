@@ -25,7 +25,7 @@ None
 * Evidence Based Classroom Practices
 * Actions and Characters
 
-[Slides](Resources/slides-class1.pdf) _to be posted_ 
+[Slides](Resources/slides-class1.pdf) _to be posted_   
 [Handout 2 (Writing)](Resources/handout2-charactersactions.pdf)
 
 
