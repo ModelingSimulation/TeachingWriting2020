@@ -25,6 +25,10 @@ None
 * Evidence Based Classroom Practices
 * Actions and Characters
 
+[Slides](Resources/slides-class1.pdf) _to be posted_ 
+[Handout 2 (Writing)](Resources/handout2-charactersactions.pdf)
+
+
 ### Assignments due
 * Fill out the [Welcome Survey](https://forms.gle/ZZrqRmBiuJ96jjzZA). **Due Monday 2/3.**
    * includes a 1 paragraph (~4-6 sentence) description of your current research problem.
