@@ -11,9 +11,9 @@
 * Nilson, Linda Burzotta. 2016. _Teaching at its Best : A Research-Based Resource for College Instructors_. Somerset: Wiley. [NYU Library Access](http://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph005975219)
 
 ### Course materials
+* Rasmussen, C., Keene, K. A., Dunmyre, J., & Fortune, N. (2018). Inquiry oriented differential equations: Course materials. Available at [https://iode.wordpress.ncsu.edu](https://iode.wordpress.ncsu.edu).
 * Shaw, Doug. 2013. _Instructors Guide for Stewart's Essential Calculus ET 2e_. Cengage Learning. [On Google Drive](https://drive.google.com/file/d/1SgmOGsaZqava2oorS14kGDh5j95TLKfW/view?usp=sharing)
-* Four sample Inquirey Based Learning activities [On Google Drive](https://drive.google.com/open?id=10RGaVh-7TfVAYBKuVi_M5j0cQo5WHQSx)
-* Differential equations mixer activity [On Google Drive](https://drive.google.com/file/d/10VJGBAgZQ7FnWSmIV5X5qMFDr8bHqYwe/view?usp=sharing)
+* Wawro, M., Zandieh, M., Rasmussen, C., & Andrews-Larson, C. (2013). Inquiry oriented linear algebra: Course materials. Available at [http://iola.math.vt.edu](http://iola.math.vt.edu). 
 
 ## Writing 
 
