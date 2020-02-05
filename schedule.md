@@ -22,8 +22,11 @@ See the [Resources Page](resources.md) for links to the references.
 None
 
 ## February 5th
-* Evidence Based Classroom Practices
-* Actions and Characters
+* Teaching: Evidence Based Classroom Practices
+    * Discussed readings
+    * Implemented active learning techniques
+* Writing: Actions and Characters
+    * Two principles for creating clear sentences: Make characters subjects, and make actions verbs
 
 [Slides, class 2](Resources/slides-class1.pdf)  
 [Handout 2 (Writing)](Resources/handout2-charactersactions.pdf)  
