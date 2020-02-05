@@ -15,7 +15,7 @@ See the [Resources Page](resources.md) for links to the references.
 * Calculus 1 Paradox: value added by classroom instruction
 * Observations of teaching strategies employed in the lesson. 
 
-[Slides](Resources/slides-class1.pdf)  
+[Slides, class 1](Resources/slides-class1.pdf)  
 [Handout 1 (Writing)](Resources/handout1-nominalizations.pdf)
 
 ### Assignments due
@@ -25,7 +25,7 @@ None
 * Evidence Based Classroom Practices
 * Actions and Characters
 
-[Slides](Resources/slides-class1.pdf) _to be posted_   
+[Slides, class 2](Resources/slides-class1.pdf)  
 [Handout 2 (Writing)](Resources/handout2-charactersactions.pdf)  
 Four sample Inquirey Based Learning activities [On Google Drive](https://drive.google.com/open?id=10RGaVh-7TfVAYBKuVi_M5j0cQo5WHQSx)  
 Differential equations mixer activity [On Google Drive](https://drive.google.com/file/d/10VJGBAgZQ7FnWSmIV5X5qMFDr8bHqYwe/view?usp=sharing)
@@ -41,7 +41,8 @@ Differential equations mixer activity [On Google Drive](https://drive.google.com
 * Center for Teaching and Learning Writing Workshop
 
 ### Assignments due
-* Exercises from Writing Handout 2 -- _hand in Exercise 3 (#s 5,6, and one more of your choice) and Exercise 4_.   
+* Exercises from Writing Handout 2 :  
+_hand in Exercise 3 (#s 5,6, and one more of your choice) and Exercise 4_.   
 Instructions for how to hand these in will be sent by email. 
 * (optional but recommended) Read Chapter 3 of Williams & Bizup
 
