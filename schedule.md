@@ -31,7 +31,7 @@ None
 [Slides, class 2](Resources/slides-class1.pdf)  
 [Handout 2 (Writing)](Resources/handout2-charactersactions.pdf)  
 [Four sample Inquirey Based Learning activities](Resources/Four_sample_Inquiry_Based_Learning_activities.pdf)  
-Differential equations mixer activity [On Google Drive](https://drive.google.com/file/d/10VJGBAgZQ7FnWSmIV5X5qMFDr8bHqYwe/view?usp=sharing)
+Blish, Libertini "Who's in My Differential Equations Club?" In Tactile Learning Activites in Mathematices, editited by Julie Barnes and Jessica M. Libertini, pg 169-172. Providence, RI: MAA Press, 2018. [On Google Drive](https://drive.google.com/file/d/10VJGBAgZQ7FnWSmIV5X5qMFDr8bHqYwe/view?usp=sharing)
 
 
 ### Assignments due
