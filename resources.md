@@ -11,6 +11,7 @@
 * Nilson, Linda Burzotta. 2016. _Teaching at its Best : A Research-Based Resource for College Instructors_. Somerset: Wiley. [NYU Library Access](http://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph005975219)
 
 ### Course materials sources
+* Barnes, Julie, and Jessica M. Libertini. (2018) _Tactile learning activities in mathematics: a recipe book for the undergraduate classroom_. Providence, RI: [MAA Press](https://bookstore.ams.org/clrm-54). (Prof. Clarkson has a copy.)
 * Boulder/Omaha Active Learning Alliance [Active Learning Materials for Calculus](http://math.colorado.edu/activecalc/)
 * Rasmussen, C., Keene, K. A., Dunmyre, J., & Fortune, N. (2018). Inquiry oriented differential equations: Course materials. Available at [https://iode.wordpress.ncsu.edu](https://iode.wordpress.ncsu.edu).
 * Shaw, Doug. 2013. _Instructors Guide for Stewart's Essential Calculus ET 2e_. Cengage Learning. [On Google Drive](https://drive.google.com/file/d/1SgmOGsaZqava2oorS14kGDh5j95TLKfW/view?usp=sharing)
