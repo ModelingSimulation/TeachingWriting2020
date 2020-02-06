@@ -30,7 +30,7 @@ None
 
 [Slides, class 2](Resources/slides-class1.pdf)  
 [Handout 2 (Writing)](Resources/handout2-charactersactions.pdf)  
-Four sample Inquirey Based Learning activities [On Google Drive](https://drive.google.com/open?id=10RGaVh-7TfVAYBKuVi_M5j0cQo5WHQSx)  
+[Four sample Inquirey Based Learning activities](Resources/Four sample Inquiry Based Learning activities.pdf)  
 Differential equations mixer activity [On Google Drive](https://drive.google.com/file/d/10VJGBAgZQ7FnWSmIV5X5qMFDr8bHqYwe/view?usp=sharing)
 
 
