@@ -8,6 +8,8 @@ Wednesdays 1:25-3:15pm in WWH 512
 
 See the [Resources Page](resources.md) for links to the references. 
 
+Hand in writing homework by email to mch328+homework at nyu. 
+
 ## January 29th
 * Course Overview: introductions, logistics and goals
 * Examples of bad writing and better witing
@@ -15,8 +17,9 @@ See the [Resources Page](resources.md) for links to the references.
 * Calculus 1 Paradox: value added by classroom instruction
 * Observations of teaching strategies employed in the lesson. 
 
-[Slides, class 1](Resources/slides-class1.pdf)  
-[Handout 1 (Writing)](Resources/handout1-nominalizations.pdf)
+### Materials 
+* [Slides, class 1](Resources/slides-class1.pdf)  
+* [Handout 1 (Writing)](Resources/handout1-nominalizations.pdf)
 
 ### Assignments due
 None
@@ -28,10 +31,11 @@ None
 * Writing: Actions and Characters
     * Two principles for creating clear sentences: Make characters subjects, and make actions verbs
 
-[Slides, class 2](Resources/slides-class1.pdf)  
-[Handout 2 (Writing)](Resources/handout2-charactersactions.pdf)  
-[Four sample Inquirey Based Learning activities](Resources/Four_sample_Inquiry_Based_Learning_activities.pdf)  
-Blish, Libertini "Who's in My Differential Equations Club?" In Tactile Learning Activites in Mathematices, editited by Julie Barnes and Jessica M. Libertini, pg 169-172. Providence, RI: MAA Press, 2018. [On Google Drive](https://drive.google.com/file/d/10VJGBAgZQ7FnWSmIV5X5qMFDr8bHqYwe/view?usp=sharing)
+### Materials 
+* [Slides, class 2](Resources/slides-class1.pdf)  
+* [Handout 2 (Writing)](Resources/handout2-charactersactions.pdf)  
+* [Four sample Inquirey Based Learning activities](Resources/Four_sample_Inquiry_Based_Learning_activities.pdf)  
+* Blish, Libertini "Who's in My Differential Equations Club?" In Tactile Learning Activites in Mathematices, editited by Julie Barnes and Jessica M. Libertini, pg 169-172. Providence, RI: MAA Press, 2018. [On Google Drive](https://drive.google.com/file/d/10VJGBAgZQ7FnWSmIV5X5qMFDr8bHqYwe/view?usp=sharing)
 
 
 ### Assignments due
@@ -44,14 +48,19 @@ Blish, Libertini "Who's in My Differential Equations Club?" In Tactile Learning 
 * Center for Teaching and Learning Writing Workshop
 
 ### Assignments due
-* Exercises from Writing Handout 2 :  
-_hand in Exercise 3 (#s 5,6, and one more of your choice) and Exercise 4_.   
-Instructions for how to hand these in will be sent by email. 
-* (optional but recommended) Read Chapter 3 of Williams & Bizup
+* Explain a concept that is central to your field of study, in ~100 words.  
+* Expand your explanation above, to ~500 words. (optional, but highly recommended)  
+
+Send these by email to mch328+homework at nyu by Tuesday, February 12.  
+Please also bring a hard copy to class. 
 
 ## February 19th
 
 ### Assignments due
+* Exercises from Writing Handout 2 :  
+_hand in Exercise 3 (#s 5,6, and one more of your choice) and Exercise 4_.   
+Please hand these in by _Tuesday February 18th_, via email to mch328+homework at nyu. 
+* (optional but recommended) Read Chapter 3 of Williams & Bizup
 
 ## February 26th
 
