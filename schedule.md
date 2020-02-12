@@ -104,6 +104,9 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 ## April 29th
 ### Assignments due
 
+## May 6th
+### Assignments due
+
 ## Date TBD: Additional class for presentations
 ### Assignments due
 * Final draft of mathematics paper
