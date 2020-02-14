@@ -59,6 +59,7 @@ Please also bring a hard copy to class.
 ### Assignments due
 * Sign up for a date to present your mini-lesson [In Google Doc](https://docs.google.com/document/d/1kignJaq8NrGCga3xZlHnJWLI8tu2oamRSndcZqW3PqE/edit?usp=sharing) **Due Monday 2/17.**
    * [Mini-lesson instructions](Resources/Mini-lesson_Instructions.pdf)
+* Read Emily's Test, Salad Days and Seeking Points in Friedberg's eaching Mathematics in Colleges and Universities **Due Wednesday 2/20**
 * Exercises from Writing Handout 2 :  
 _hand in Exercise 3 (#s 5,6, and one more of your choice) and Exercise 4_.   
 Please hand these in by _Tuesday February 18th_, via email to mch328+homework at nyu. 
