@@ -55,9 +55,12 @@ Send these by email to mch328+homework at nyu by Tuesday, February 12.
 Please also bring a hard copy to class. 
 
 ## February 19th
-* Teaching: Challenging situations
+* Teaching: Challenging Situations
    * Preventing and addressing cheating
    * Handeling student regrade requests
+   
+### Materials 
+* Forty-Two Ways to Prevent Cheating from Nilson's _Teaching at its Best_ pg. 165-167 
 
 ### Assignments due
 * Sign up for a date to present your mini-lesson [In Google Doc](https://docs.google.com/document/d/1kignJaq8NrGCga3xZlHnJWLI8tu2oamRSndcZqW3PqE/edit?usp=sharing) **Due Monday 2/17.**
