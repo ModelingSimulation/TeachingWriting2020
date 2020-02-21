@@ -63,6 +63,7 @@ Please also bring a hard copy to class.
    
 ### Materials 
 * Forty-Two Ways to Prevent Cheating from Nilson's _Teaching at its Best_ pg. 165-167 
+* [Student Solutions for Handout 2](https://drive.google.com/open?id=163y3s9M7GYp1-uppfTWvfE1EwQViH1UE)
 
 ### Assignments due
 * Sign up for a date to present your mini-lesson [In Google Doc](https://docs.google.com/document/d/1kignJaq8NrGCga3xZlHnJWLI8tu2oamRSndcZqW3PqE/edit?usp=sharing) **Due Monday 2/17.**
