@@ -58,6 +58,8 @@ Please also bring a hard copy to class.
 * Teaching: Challenging Situations
    * Preventing and addressing cheating
    * Handeling student regrade requests
+* Writing
+   * When nominalizations are good
    
 ### Materials 
 * Forty-Two Ways to Prevent Cheating from Nilson's _Teaching at its Best_ pg. 165-167 
@@ -73,7 +75,13 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 
 ## February 26th
 
+* Writing
+   * More on characters 
+   * More on nouns 
+
 ### Assignments due
+
+* None for Writing (but bring a hard copy of your 100-word description to class)
 
 ## March 4th
 
