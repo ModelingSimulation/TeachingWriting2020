@@ -79,6 +79,10 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 * Writing
    * More on characters 
    * More on nouns 
+   
+### Materials 
+* [Slides, classes 4-5](Resources/slides-class4-5.pdf)
+* [Handout 3 (Writing)](Resources/handout3-charactersnouns.pdf)  
 
 ### Assignments due
 
@@ -86,7 +90,11 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 
 ## March 4th
 
+### Materials 
+
 ### Assignments due
+* Exercises from Writing Handout 3 (due by Tuesday)
+* Rewrite your 100-word description, incorporating feedback from your partner.
 
 ## March 5th
 
