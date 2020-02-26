@@ -104,11 +104,11 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 ## March 18th _Spring Break -- No Class_
 
 ## March 25th
+* Draft 1 of research report 
 
 ### Assignments due
 
 ## April 1st
-* Draft 1 of research report
 
 ### Assignments due
 
