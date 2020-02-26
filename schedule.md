@@ -96,10 +96,6 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 * Exercises from Writing Handout 3 (due by Tuesday)
 * Rewrite your 100-word description, incorporating feedback from your partner.
 
-## March 5th
-
-### Assignments due
-
 ## March 11th
 
 ### Assignments due
