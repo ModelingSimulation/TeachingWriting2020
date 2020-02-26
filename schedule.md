@@ -99,7 +99,7 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 ## March 11th
 
 ### Assignments due
-* Draft 1 of mathematics paper
+
 
 ## March 18th _Spring Break -- No Class_
 
@@ -108,20 +108,20 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 ### Assignments due
 
 ## April 1st
+* Draft 1 of research report
 
 ### Assignments due
 
 ## April 8th
 
 ### Assignments due
-* Draft 2 of mathematics paper
 
 ## April 15th
 ### Assignments due
 
 ## April 22nd
 ### Assignments due
-* Draft 3 of mathematics paper
+* Draft 2 of research report
 
 ## April 29th
 ### Assignments due
@@ -131,7 +131,7 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 
 ## Date TBD: Additional class for presentations
 ### Assignments due
-* Final draft of mathematics paper
+* Final draft of research report
 
 <!-- ead Teaching at Its Best -- Chapter 10 Perserving Academic Integrity (pg. 162 - 170)
 Read Case Studies for Today's Classroom - Case (pg. )-->
