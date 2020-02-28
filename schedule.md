@@ -93,7 +93,8 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 ### Materials 
 
 ### Assignments due
-* Exercises from Writing Handout 3 (due by Tuesday)
+* Read MAA Instructional Practices Guide -- Classroom Practices 1 (pg. 1-26) **Due Wednesday 2/5.**
+* Exercises from Writing Handout 3 **Due by Tuesday**
 * Rewrite your 100-word description, incorporating feedback from your partner. Send to mch328+homework. 
 
 ## March 11th
