@@ -83,7 +83,8 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
    
 ### Materials 
 * [Slides, classes 4-5](Resources/slides-class4-5.pdf)
-* [Handout 3 (Writing)](Resources/handout3-charactersnouns.pdf)  
+* [Handout 3 (Writing)](Resources/handout3-charactersnouns.pdf)
+* Making the grade in Friedberg's Teaching Mathematics in Colleges and Universities
 
 ### Assignments due
 
