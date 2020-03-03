@@ -95,7 +95,7 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 ### Materials 
 
 ### Assignments due
-* Read MAA Instructional Practices Guide -- Assessment Practices 2 (pg. 49-75) **Due Wednesday 3/4.**
+* Read MAA Instructional Practices Guide -- Assessment Practices Sections 1-5 (pg. 49-75) **Due Wednesday 3/4.**
 * Exercises from Writing Handout 3 **Due by Tuesday 3/3**
 * Rewrite your 100-word description, incorporating feedback from your partner. Send to mch328+homework. 
 
