@@ -75,7 +75,8 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 * (optional but recommended) Read Chapter 3 of Williams & Bizup
 
 ## February 26th
-
+* Teaching
+   * Grading and rubrics
 * Writing
    * More on characters 
    * More on nouns 
@@ -93,8 +94,8 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 ### Materials 
 
 ### Assignments due
-* Read MAA Instructional Practices Guide -- Assessment Practices 2 (pg. 69-100) **Due Wednesday 2/5.**
-* Exercises from Writing Handout 3 **Due by Tuesday**
+* Read MAA Instructional Practices Guide -- Assessment Practices 2 (pg. 49-75) **Due Wednesday 3/4.**
+* Exercises from Writing Handout 3 **Due by Tuesday 3/3**
 * Rewrite your 100-word description, incorporating feedback from your partner. Send to mch328+homework. 
 
 ## March 11th
