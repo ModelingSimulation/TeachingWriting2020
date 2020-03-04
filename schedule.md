@@ -94,8 +94,14 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 * Teaching discussion topics
    * Aligning assessment with learning goals a
    * Formative and summative assessment   
+* Writing
+    * Cohesion
+    * Coherence
 
 ### Materials 
+* [Slides, class 6](Resources/slides-class6.pdf)
+* [Handout 4 (Writing)](Resources/handout4-cohesion-coherence.pdf)
+* [Student Solutions for Handout 3](https://drive.google.com/open?id=1PYiAc_4nYFKET5hgVAPgtixoCD7n2elr)
 
 ### Assignments due
 * Read MAA Instructional Practices Guide -- Assessment Practices Sections 1-5 (pg. 49-75) **Due Wednesday 3/4.**
@@ -108,6 +114,8 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 * Write Calculus 1 Final Exam. Bring print out to class and email to clarkson+homework. **Due Wednesday 3/11.**
    * [Final Exam writing Instructions](Resources/Calculus_1_Final_Exam_Instructions.pdf)
 * Write up feedback on another groups Calculus exam. Email to clarkson+homework. **Due Friday 3/13**
+* Exercises from Writing Handout 5 **Due by Tuesday 3/10**
+
 
 ## March 18th _Spring Break -- No Class_
 
