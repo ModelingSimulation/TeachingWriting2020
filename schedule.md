@@ -91,6 +91,9 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 * None for Writing (but bring a hard copy of your 100-word description to class)
 
 ## March 4th
+* Teaching discussion topics
+   * Aligning assessment with learning goals a
+   * Formative and summative assessment   
 
 ### Materials 
 
@@ -102,7 +105,9 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 ## March 11th
 
 ### Assignments due
-
+* Write Calculus 1 Final Exam. Bring print out to class and email to clarkson+homework. **Due Wednesday 3/11.**
+ * [Final Exam writing Instructions](Resources/Calculus_1_Final_Exam_Instructions.pdf)
+* Write up feedback on another groups Calculus exam. Email to clarkson+homework. **Due Friday 3/13**
 
 ## March 18th _Spring Break -- No Class_
 
