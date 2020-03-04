@@ -106,7 +106,7 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 
 ### Assignments due
 * Write Calculus 1 Final Exam. Bring print out to class and email to clarkson+homework. **Due Wednesday 3/11.**
- * [Final Exam writing Instructions](Resources/Calculus_1_Final_Exam_Instructions.pdf)
+   * [Final Exam writing Instructions](Resources/Calculus_1_Final_Exam_Instructions.pdf)
 * Write up feedback on another groups Calculus exam. Email to clarkson+homework. **Due Friday 3/13**
 
 ## March 18th _Spring Break -- No Class_
