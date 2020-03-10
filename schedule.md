@@ -110,6 +110,10 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 
 ## March 11th
 
+* Writing - Introductions
+
+### Materials
+
 ### Assignments due
 * Write Calculus 1 Final Exam. Bring print out to class and email to clarkson+homework. **Due Wednesday 3/11.**
    * [Final Exam writing Instructions](Resources/Calculus_1_Final_Exam_Instructions.pdf)
@@ -127,6 +131,7 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 ## April 1st
 
 ### Assignments due
+* Draft 1 of research report 
 
 ## April 8th
 
