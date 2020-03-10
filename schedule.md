@@ -131,7 +131,6 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 ## April 1st
 
 ### Assignments due
-* Draft 1 of research report 
 
 ## April 8th
 
