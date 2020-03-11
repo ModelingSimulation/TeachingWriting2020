@@ -118,7 +118,7 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
     * [“Atmospheric diffusion shown on a distance-neighbour graph”, by L. F. Richardson](https://drive.google.com/open?id=1T9Ezi4_uhbX1ZiridL5BC1qSGql3J8mH)
     * [“On Malliavin’s proof of Hormander’s theorem”, by Martin Hairer](https://drive.google.com/open?id=1wA98JuAvD9-7-vu2sBkhbu7BoVxUSwO6)
     * [“Colloidal matter: Packing, geometry, and entropy”, by Vinothan Manoharan](https://drive.google.com/file/d/1PxNINpnOHm-d_S9-SYphVX4g4Lji0R-U)
-* [Slides, class 7](link to be posted)
+* [Slides, class 7](Resources/slides-class7.pdf)
 * [Chapter 7 from "Stylish Academic Writing", by Helen Sword](https://drive.google.com/open?id=14ki6I0YprenpeAi6atQUXBQpkv3mEW5g)
 
 
