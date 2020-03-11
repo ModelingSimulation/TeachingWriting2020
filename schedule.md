@@ -132,6 +132,8 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 
 ## March 25th
 
+* Writing - Coherence
+
 ### Materials
 * [Chapter 5, "Arcs of Coherence", from _The Sense of Style_, by Steven Pinker](https://drive.google.com/open?id=13lIuDPhoEN5DsLbasH6cIN32rOj5cJYU)
 
