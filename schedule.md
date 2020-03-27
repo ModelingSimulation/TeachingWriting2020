@@ -146,15 +146,15 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 * Writing - Global Coherence
 
 ### Materials
-* [Chapter 5, "Arcs of Coherence"]](https://drive.google.com/open?id=13lIuDPhoEN5DsLbasH6cIN32rOj5cJYU), from _The Sense of Style_, by Steven Pinker
+* [Chapter 5, "Arcs of Coherence"](https://drive.google.com/open?id=13lIuDPhoEN5DsLbasH6cIN32rOj5cJYU), from _The Sense of Style_, by Steven Pinker
 * ["Deep Learning: An Introduction for Applied Mathematicians"](https://drive.google.com/file/d/1IA78ZkNlR-k5j0VSve5qBXX_L-tG-VS0/view?usp=sharing), by C. F. Hingham and D. J. Hingham. _SIAM Review_, 61(4), 860–891.
 
 ### Assignments due
 * Draft 1 of research report 
-* Read [Chapter 5, "Arcs of Coherence", from _The Sense of Style_]((https://drive.google.com/open?id=13lIuDPhoEN5DsLbasH6cIN32rOj5cJYU)), by Steven Pinker. Make a note of principles you can follow to make your writing more coherent. 
-* Read ["Deep Learning: An Introduction for Applied Mathematicians"](https://drive.google.com/file/d/1IA78ZkNlR-k5j0VSve5qBXX_L-tG-VS0/view?usp=sharing), by Hingham & Hingham. 
-    * Scan Sections 1-4 (p.1-10), and Section 8 (p.25-30). Scan the first 1-2 paragraphs of Sections 5-7.
-    * Focus on the structure of the text: what is the goal of each section and each paragraph. Don't worry about the mathematical content (unless you want to.)
+* Read [Chapter 5, "Arcs of Coherence", from _The Sense of Style_](https://drive.google.com/open?id=13lIuDPhoEN5DsLbasH6cIN32rOj5cJYU), by Steven Pinker. Make a note of principles you can follow to make your writing more coherent. 
+* Scan ["Deep Learning: An Introduction for Applied Mathematicians"](https://drive.google.com/file/d/1IA78ZkNlR-k5j0VSve5qBXX_L-tG-VS0/view?usp=sharing), by Hingham & Hingham. 
+    * Read Sections 1-4 (p.1-10), Section 8 (p.25-30), and the first 1-2 paragraphs each of Sections 5-7.
+    * Pay attention to the structure of the text: what is the goal of each section and each paragraph. Don't worry about the mathematical content (unless you want to.)
 
 
 ## April 8th
