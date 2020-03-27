@@ -133,18 +133,28 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 
 ## March 25th
 
+* Teaching discussion
+    * Creating exams in a group
+    * Online teaching
+
+
+### Assignments due
+
+
+## April 1st
+
 * Writing - Coherence
 
 ### Materials
 * [Chapter 5, "Arcs of Coherence", from _The Sense of Style_, by Steven Pinker](https://drive.google.com/open?id=13lIuDPhoEN5DsLbasH6cIN32rOj5cJYU)
-
-### Assignments due
-* Read Chapter 5, "Arcs of Coherence", from _The Sense of Style_, by Steven Pinker. Available [here](https://drive.google.com/open?id=13lIuDPhoEN5DsLbasH6cIN32rOj5cJYU). Make a note of principles you can follow to make your writing more coherent. 
-
-## April 1st
+* ["Deep Learning: An Introduction for Applied Mathematicians", by C. F. Hingham and D. J. Hingham. _SIAM Review_, 61(4), 860–891.](https://drive.google.com/file/d/1IA78ZkNlR-k5j0VSve5qBXX_L-tG-VS0/view?usp=sharing)
 
 ### Assignments due
 * Draft 1 of research report 
+* Read Chapter 5, "Arcs of Coherence", from _The Sense of Style_, by Steven Pinker. Available [here](https://drive.google.com/open?id=13lIuDPhoEN5DsLbasH6cIN32rOj5cJYU). Make a note of principles you can follow to make your writing more coherent. 
+* Read ["Deep Learning: An Introduction for Applied Mathematicians"](https://drive.google.com/file/d/1IA78ZkNlR-k5j0VSve5qBXX_L-tG-VS0/view?usp=sharing). 
+    * Scan Sections 1-4 (p.1-10), and Section 8 (p.25-30). Scan the first 1-2 paragraphs of Sections 5-7.
+    * Focus on the structure of the text: what is the goal of each section and each paragraph. Don't worry about the mathematical content (unless you want to.)
 
 
 ## April 8th
