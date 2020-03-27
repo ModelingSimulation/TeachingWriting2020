@@ -148,6 +148,7 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 ### Materials
 * [Chapter 5, "Arcs of Coherence"](https://drive.google.com/open?id=13lIuDPhoEN5DsLbasH6cIN32rOj5cJYU), from _The Sense of Style_, by Steven Pinker
 * ["Deep Learning: An Introduction for Applied Mathematicians"](https://drive.google.com/file/d/1IA78ZkNlR-k5j0VSve5qBXX_L-tG-VS0/view?usp=sharing), by C. F. Hingham and D. J. Hingham. _SIAM Review_, 61(4), 860–891.
+* [Slides, class 8- TO POST](Resources/slides-class8.pdf)
 
 ### Assignments due
 * Draft 1 of research report 
