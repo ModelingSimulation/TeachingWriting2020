@@ -119,7 +119,7 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
     * [“On Malliavin’s proof of Hormander’s theorem”, by Martin Hairer](https://drive.google.com/open?id=1wA98JuAvD9-7-vu2sBkhbu7BoVxUSwO6)
     * [“Colloidal matter: Packing, geometry, and entropy”, by Vinothan Manoharan](https://drive.google.com/file/d/1PxNINpnOHm-d_S9-SYphVX4g4Lji0R-U)
 * [Slides, class 7](Resources/slides-class7.pdf)
-* [Chapter 7 from "Stylish Academic Writing", by Helen Sword](https://drive.google.com/open?id=14ki6I0YprenpeAi6atQUXBQpkv3mEW5g)
+* [Chapter 7, "Hooks and Sinkers"](https://drive.google.com/open?id=14ki6I0YprenpeAi6atQUXBQpkv3mEW5g), from _Stylish Academic Writing_, by Helen Sword]
 
 
 ### Assignments due
@@ -148,6 +148,8 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 ### Materials
 * [Chapter 5, "Arcs of Coherence"](https://drive.google.com/open?id=13lIuDPhoEN5DsLbasH6cIN32rOj5cJYU), from _The Sense of Style_, by Steven Pinker.
 * ["Deep Learning: An Introduction for Applied Mathematicians"](https://drive.google.com/file/d/1IA78ZkNlR-k5j0VSve5qBXX_L-tG-VS0/view?usp=sharing), by C. F. Hingham and D. J. Hingham. _SIAM Review_, 61(4), 860–891.
+* [Chapter 8, "The Story Net"](https://drive.google.com/file/d/1Xapy6qjD3Wz-Se84i0SmEcweMndgr-_4/view?usp=sharing), from _Stylish Academic Writing_, by Helen Sword. 
+* [Handout 5 (Writing)](Resources/handout5-claritycoherence-summary.pdf): Summary of principles of clarity & coherence. 
 * [Slides, class 8- TO POST](Resources/slides-class8.pdf)
 
 ### Assignments due
