@@ -162,7 +162,7 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 
 ## April 8th
 
-* Mathematics Writing
+* Writing Mathematics
 
 ### Materials
 * [Chapter 3: "Mathematical Writing"](https://drive.google.com/file/d/1vDdD66KgNMJ6fUToGDsWPEvRi3UTw0Qv/view?usp=sharing), from _Handbook of Writing for the Mathematical Sciences_, by Nicholas Hingham.
