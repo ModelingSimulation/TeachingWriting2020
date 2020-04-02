@@ -174,7 +174,7 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 ### Assignments due
 
 * Read [Chapter 3: "Mathematical Writing"](https://drive.google.com/file/d/1vDdD66KgNMJ6fUToGDsWPEvRi3UTw0Qv/view?usp=sharing). Make a note of things you learned / principles you can follow in your mathematical writing. Be prepared to discuss in class. 
-* Edit your research report, using the editing rubric above to guide your edits. (You don't need to hand it in again, but do hand in a short summary of the changes you made.) 
+* Edit your research report, using the [draft editing rubric](Resources/handout6-editingrubric.pdf) to guide your edits. You don't need to hand in your report again, but do hand in a short summary of the changes you made. 
 * _After_ you have edited your report once, and send your report to your [editing partners](https://drive.google.com/file/d/1bSqxcSIYHsxAF9eI9bTRM20rPOw7GVA3/view?usp=sharing). You are each assigned 2 editing partners. They will provide further edits, due next week.  Send them your report early, so they have time to provide thoughtful feedback. 
 
 ## April 15th
@@ -182,9 +182,12 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 ### Materials
 
 ### Assignments due
-* Provide feedback on your editing partners' reports. For each of your 2 partners, fill out editing rubric (or provide comments in a similar format), and send it to your partners and to mch328+homework. 
+* Provide feedback on your partners' reports. For each of your 2 partners, fill out your editing rubric (or provide comments of a similar nature), and send it to your partner and to mch328+homework. 
 
 ## April 22nd
+
+### Materials
+
 ### Assignments due
 * Draft 2 of research report
 
