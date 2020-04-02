@@ -150,7 +150,7 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 * ["Deep Learning: An Introduction for Applied Mathematicians"](https://drive.google.com/file/d/1IA78ZkNlR-k5j0VSve5qBXX_L-tG-VS0/view?usp=sharing), by C. F. Hingham and D. J. Hingham. _SIAM Review_, 61(4), 860–891.
 * [Chapter 8, "The Story Net"](https://drive.google.com/file/d/1Xapy6qjD3Wz-Se84i0SmEcweMndgr-_4/view?usp=sharing), from _Stylish Academic Writing_, by Helen Sword. 
 * [Handout 5 (Writing)](Resources/handout5-claritycoherence-summary.pdf): Summary of principles of clarity & coherence. 
-* [Slides, class 8- TO POST](Resources/slides-class8.pdf)
+* [Slides, class 8](Resources/slides-class8.pdf)
 
 ### Assignments due
 * Draft 1 of research report 
@@ -162,10 +162,27 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 
 ## April 8th
 
+* Mathematics Writing
+
+### Materials
+* [Chapter 3: "Mathematical Writing"](https://drive.google.com/file/d/1vDdD66KgNMJ6fUToGDsWPEvRi3UTw0Qv/view?usp=sharing), from _Handbook of Writing for the Mathematical Sciences_, by Nicholas Hingham.
+* ["Can We Make Mathematics Intelligible?"](https://drive.google.com/file/d/13O8aJwXAUVkP_d7TcC6SHZ7wWC2MT7LA/view?usp=sharing), _The American Mathematical Monthly_, Vol. 88, No. 10, by Boas, 1981
+* [Editing rubric (draft for this week)](Resources/handout6-editingrubric.pdf). [.odt verion](Resources/handout6-editingrubric.odt)
+* [Editing partners list](https://drive.google.com/file/d/1bSqxcSIYHsxAF9eI9bTRM20rPOw7GVA3/view?usp=sharing)
+
+
 ### Assignments due
 
+* Read [Chapter 3: "Mathematical Writing"](https://drive.google.com/file/d/1vDdD66KgNMJ6fUToGDsWPEvRi3UTw0Qv/view?usp=sharing). Make a note of things you learned / principles you can follow in your mathematical writing. Be prepared to discuss in class. 
+* Edit your research report, using the editing rubric above to guide your edits. (You don't need to hand it in again, but do hand in a short summary of the changes you made.) 
+* _After_ you have edited your report once, and send your report to your [editing partners](https://drive.google.com/file/d/1bSqxcSIYHsxAF9eI9bTRM20rPOw7GVA3/view?usp=sharing). You are each assigned 2 editing partners. They will provide further edits, due next week.  Send them your report early, so they have time to provide thoughtful feedback. 
+
 ## April 15th
+
+### Materials
+
 ### Assignments due
+* Provide feedback on your editing partners' reports. For each of your 2 partners, fill out editing rubric (or provide comments in a similar format), and send it to your partners and to mch328+homework. 
 
 ## April 22nd
 ### Assignments due
