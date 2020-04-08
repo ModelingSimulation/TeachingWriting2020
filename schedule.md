@@ -10,21 +10,21 @@ See the [Resources Page](resources.md) for links to the references.
 
 Hand in writing homework by email to mch328+homework at nyu, on the Tuesday before the class for which it is listed as homework. 
 
-# Dates
- [Jan 29](#january-29)
- [Feb 5](#february-5)
- [Feb 12](#february-12)
- [Feb 19](#february-19)
+Click on these links to jump to the resources for a particular date.
+* [Jan 29](#january-29),
+[Feb 5](#february-5),
+ [Feb 12](#february-12),
+ [Feb 19](#february-19),
  [Feb 26](#february-26)
- [March 4](#march-4)
- [March 11](#march-11)
+* [March 4](#march-4),
+ [March 11](#march-11),
  [March 25](#march-25)
- [April 1](#april-1)
- [April 8](#april-8)
- [April 15](#april-15)
- [April 22](#april-22)
+* [April 1](#april-1),
+ [April 8](#april-8),
+ [April 15](#april-15),
+ [April 22](#april-22),
  [April 29](#april-29)
- [May 6](#may-6)
+* [May 6](#may-6),
  [May 13](#may-13)
 
 ## January 29
