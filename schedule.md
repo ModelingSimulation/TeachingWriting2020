@@ -211,7 +211,7 @@ Further reading
 
 ### Materials
 
-* [Editing rubric (UPDATED VERSION)](Resources/handout6-editingrubric_v2.pdf). and an [.odt verion](Resources/handout6-editingrubric_v2.odt)
+* [Editing rubric (updated)](Resources/handout6-editingrubric_v2.pdf). and an [.odt verion](Resources/handout6-editingrubric_v2.odt)
 
 ### Assignments due
 * Provide feedback on your partners' reports. For each of your 2 partners, fill out your editing rubric (or provide comments of a similar nature), and send it to your partner and to mch328+homework. 
