@@ -183,11 +183,14 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 * Remember who your reader is
 
 ### Materials
+Pre-class
 * [Chapter 3: "Mathematical Writing"](https://drive.google.com/file/d/1vDdD66KgNMJ6fUToGDsWPEvRi3UTw0Qv/view?usp=sharing), from _Handbook of Writing for the Mathematical Sciences_, by Nicholas Hingham.
 * [Handout 6: Editing rubric (draft for this week)](Resources/handout6-editingrubric.pdf). and an [.odt verion](Resources/handout6-editingrubric.odt)
 * [Editing partners list](https://drive.google.com/file/d/1bSqxcSIYHsxAF9eI9bTRM20rPOw7GVA3/view?usp=sharing)
+During class
 * [Handout 7 (Writing)](Resources/handout7-mathwriting.pdf): exercises in mathematical writing. 
 * [Excerpts from student first drafts](https://drive.google.com/file/d/1JVhZ3-FhuDjnyMF73gwDyIJuVbnx8jbV/view?usp=sharing)
+Post-class
 * [Solutions for Handout 7](Resources/solutions-handout7-mathwriting.pdf)
 * [Suggestions for student excerpts]()
 
