@@ -215,6 +215,7 @@ Further reading
 
 ### Assignments due
 * Provide feedback on your partners' reports. For each of your 2 partners, fill out your editing rubric (or provide comments of a similar nature), and send it to your partner and to mch328+homework. 
+(Alternative: if you have not had at least a week to edit your partner's work, please send Miranda a quick email to let me know where you are in the editing process, and when to expect the comments.)
 
 ## April 22
 
