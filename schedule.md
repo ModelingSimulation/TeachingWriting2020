@@ -10,7 +10,7 @@ See the [Resources Page](resources.md) for links to the references.
 
 Hand in writing homework by email to mch328+homework at nyu, on the Tuesday before the class for which it is listed as homework. 
 
-Click on these links to jump to the resources for a particular date.
+Jump to the resources for a particular date:
 * [Jan 29](#january-29),
 [Feb 5](#february-5),
  [Feb 12](#february-12),
