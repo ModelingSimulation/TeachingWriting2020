@@ -187,6 +187,9 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 * [Handout 6: Editing rubric (draft for this week)](Resources/handout6-editingrubric.pdf). and an [.odt verion](Resources/handout6-editingrubric.odt)
 * [Editing partners list](https://drive.google.com/file/d/1bSqxcSIYHsxAF9eI9bTRM20rPOw7GVA3/view?usp=sharing)
 * [Handout 7 (Writing)](Resources/handout7-mathwriting.pdf): exercises in mathematical writing. 
+* [Excerpts from student first drafts](https://drive.google.com/file/d/1JVhZ3-FhuDjnyMF73gwDyIJuVbnx8jbV/view?usp=sharing)
+* [Solutions for Handout 7](Resources/solutions-handout7-mathwriting.pdf)
+* [Suggestions for student excerpts]()
 
 Further reading
 * ["Can We Make Mathematics Intelligible?"](https://drive.google.com/file/d/13O8aJwXAUVkP_d7TcC6SHZ7wWC2MT7LA/view?usp=sharing), _The American Mathematical Monthly_, Vol. 88, No. 10, by Boas, 1981
