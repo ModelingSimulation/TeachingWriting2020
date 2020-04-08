@@ -6,6 +6,18 @@
 # Dates
 * [Jan 29](#january-29)
 * [Feb 5](#february-5)
+* [Feb 12](#february-12)
+* [Feb 19](#february-19)
+* [Feb 26](#february-26)
+* [March 4](#march-4)
+* [March 11](#march-11)
+* [March 25](#march-25)
+* [April 1](#april-1)
+* [April 8](#april-8)
+* [April 15](#april-15)
+* [April 22](#april-22)
+* [April 29](#april-29)
+* [May 6](#may-6)
 
 # Course Schedule
 Wednesdays 1:25-3:15pm in WWH 512
@@ -14,7 +26,7 @@ See the [Resources Page](resources.md) for links to the references.
 
 Hand in writing homework by email to mch328+homework at nyu, on the Tuesday before the class for which it is listed as homework. 
 
-## January 29th
+## January 29
 * Course Overview: introductions, logistics and goals
 * Examples of bad writing and better witing
 * Review of gramar: noun, verb adjective, nominalization
@@ -28,7 +40,7 @@ Hand in writing homework by email to mch328+homework at nyu, on the Tuesday befo
 ### Assignments due
 None
 
-## February 5th
+## February 5
 * Teaching: Evidence Based Classroom Practices
     * Discussed readings
     * Implemented active learning techniques
@@ -48,7 +60,7 @@ None
 * Read MAA Instructional Practices Guide -- Classroom Practices 1 (pg. 1-26) **Due Wednesday 2/5.**
 * Finish the exercises on Handout 1 (you don't need to hand this in.) 
 
-## February 12th 
+## February 12
 * Center for Teaching and Learning Writing Workshop
 
 ### Assignments due
@@ -58,7 +70,7 @@ None
 Send these by email to mch328+homework at nyu by Tuesday, February 12.  
 Please also bring a hard copy to class. 
 
-## February 19th
+## February 19
 * Teaching: Challenging Situations
    * Preventing and addressing cheating
    * Handeling student regrade requests
@@ -78,7 +90,7 @@ _hand in Exercise 3 (#s 5,6, and one more of your choice) and Exercise 4_.
 Please hand these in by _Tuesday February 18th_, via email to mch328+homework at nyu. 
 * (optional but recommended) Read Chapter 3 of Williams & Bizup
 
-## February 26th
+## February 26
 * Teaching
    * Grading and rubrics
 * Writing
@@ -94,7 +106,7 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 
 * None for Writing (but bring a hard copy of your 100-word description to class)
 
-## March 4th
+## March 4
 * Teaching discussion topics
    * Aligning assessment with learning goals a
    * Formative and summative assessment   
@@ -112,7 +124,7 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 * Exercises from Writing Handout 3 **Due by Tuesday 3/3**
 * Rewrite your 100-word description, incorporating feedback from your partner. Send to mch328+homework. 
 
-## March 11th
+## March 11
 
 * Writing - Introductions
 
@@ -133,9 +145,9 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 * Exercises from Writing Handout 5 **Due by Tuesday 3/10**
 
 
-## March 18th _Spring Break -- No Class_
+## March 18 _Spring Break -- No Class_
 
-## March 25th
+## March 25
 
 * Teaching discussion
     * Creating exams in a group
@@ -145,7 +157,7 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 ### Assignments due
 
 
-## April 1st
+## April 1
 
 * Writing - Global Coherence
 
@@ -164,7 +176,7 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
     * Pay attention to the structure of the text: what is the goal of each section and each paragraph. Don't worry about the mathematical content (unless you want to.)
 
 
-## April 8th
+## April 8
 
 * Writing Mathematics
 * Remember who your reader is
@@ -186,24 +198,24 @@ Further reading
 * Edit your research report, using the [draft editing rubric](Resources/handout6-editingrubric.pdf) to guide your edits. You don't need to hand in your report again, but do hand in a short summary of the changes you made. 
 * _After_ you have edited your report once, and send your report to your [editing partners](https://drive.google.com/file/d/1bSqxcSIYHsxAF9eI9bTRM20rPOw7GVA3/view?usp=sharing). You are each assigned 2 editing partners. They will provide further edits, due next week.  Send them your report early, so they have time to provide thoughtful feedback. 
 
-## April 15th
+## April 15
 
 ### Materials
 
 ### Assignments due
 * Provide feedback on your partners' reports. For each of your 2 partners, fill out your editing rubric (or provide comments of a similar nature), and send it to your partner and to mch328+homework. 
 
-## April 22nd
+## April 22
 
 ### Materials
 
 ### Assignments due
 * Draft 2 of research report
 
-## April 29th
+## April 29
 ### Assignments due
 
-## May 6th
+## May 6
 ### Assignments due
 
 ## Date TBD: Additional class for presentations
