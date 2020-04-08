@@ -3,6 +3,13 @@
 * [Course Schedule](schedule.md)
 * [Resources](resources.md) 
 
+# Course Schedule
+Wednesdays 1:25-3:15pm in WWH 512
+
+See the [Resources Page](resources.md) for links to the references. 
+
+Hand in writing homework by email to mch328+homework at nyu, on the Tuesday before the class for which it is listed as homework. 
+
 # Dates
 * [Jan 29](#january-29)
 * [Feb 5](#february-5)
@@ -18,13 +25,7 @@
 * [April 22](#april-22)
 * [April 29](#april-29)
 * [May 6](#may-6)
-
-# Course Schedule
-Wednesdays 1:25-3:15pm in WWH 512
-
-See the [Resources Page](resources.md) for links to the references. 
-
-Hand in writing homework by email to mch328+homework at nyu, on the Tuesday before the class for which it is listed as homework. 
+* [May 13](#may-13)
 
 ## January 29
 * Course Overview: introductions, logistics and goals
@@ -218,7 +219,9 @@ Further reading
 ## May 6
 ### Assignments due
 
-## Date TBD: Additional class for presentations
+## May 13
+Additional class for presentations
+
 ### Assignments due
 * Final draft of research report
 
