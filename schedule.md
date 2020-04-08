@@ -166,10 +166,14 @@ Please hand these in by _Tuesday February 18th_, via email to mch328+homework at
 
 ### Materials
 * [Chapter 3: "Mathematical Writing"](https://drive.google.com/file/d/1vDdD66KgNMJ6fUToGDsWPEvRi3UTw0Qv/view?usp=sharing), from _Handbook of Writing for the Mathematical Sciences_, by Nicholas Hingham.
-* ["Can We Make Mathematics Intelligible?"](https://drive.google.com/file/d/13O8aJwXAUVkP_d7TcC6SHZ7wWC2MT7LA/view?usp=sharing), _The American Mathematical Monthly_, Vol. 88, No. 10, by Boas, 1981
 * [Editing rubric (draft for this week)](Resources/handout6-editingrubric.pdf). and an [.odt verion](Resources/handout6-editingrubric.odt)
 * [Editing partners list](https://drive.google.com/file/d/1bSqxcSIYHsxAF9eI9bTRM20rPOw7GVA3/view?usp=sharing)
+* 
 
+Further reading
+* ["Can We Make Mathematics Intelligible?"](https://drive.google.com/file/d/13O8aJwXAUVkP_d7TcC6SHZ7wWC2MT7LA/view?usp=sharing), _The American Mathematical Monthly_, Vol. 88, No. 10, by Boas, 1981
+* ["Writing Mathematics Well"](https://drive.google.com/file/d/1r9HZ1f-6evN7yWuhsjBh9zpjn3MkAxR_/view?usp=sharing), by L. Gillman, 1982.
+* ["How to Write Mathematics"](https://drive.google.com/file/d/1i3Qv46UHhsrs0y_CDJEflXCAnvscGHBZ/view?usp=sharing), by P. R. Halmos, 1970. 
 
 ### Assignments due
 
