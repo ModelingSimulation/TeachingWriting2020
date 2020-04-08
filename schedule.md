@@ -1,7 +1,11 @@
-## Site Map
+# Site Map
 * [Course Overview](https://modelingsimulation.github.io/TeachingWriting2020/)
 * [Course Schedule](schedule.md)
 * [Resources](resources.md) 
+
+# Dates
+* [Jan 29](#january-29)
+* [Feb 5](#february-5)
 
 # Course Schedule
 Wednesdays 1:25-3:15pm in WWH 512
