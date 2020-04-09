@@ -194,7 +194,7 @@ During class
 
 Post-class
 * [Solutions for Handout 7](Resources/solutions-handout7-mathwriting.pdf)
-* [Suggestions for student excerpts]()
+* [Suggestions for student excerpts](https://drive.google.com/file/d/1AUwEVFDmbqnbAC7YbcV4CzrsOSGcEd6n/view?usp=sharing)
 
 Further reading
 * ["Can We Make Mathematics Intelligible?"](https://drive.google.com/file/d/13O8aJwXAUVkP_d7TcC6SHZ7wWC2MT7LA/view?usp=sharing), _The American Mathematical Monthly_, Vol. 88, No. 10, by Boas, 1981
