@@ -215,14 +215,15 @@ Further reading
 
 ### Assignments due
 * Provide feedback on your partners' reports. For each of your 2 partners, fill out your editing rubric (or provide comments of a similar nature), and send it to your partner and to mch328+homework. 
-(Alternative: if you have not had at least a week to edit your partner's work, please send Miranda a quick email to let me know where you are in the editing process, and when to expect the comments.)
+(Alternative: if you have not had at least a week to edit your partners' work, please send Miranda a quick email to let me know where you are in the editing process, and when you expect to finish editing.)
+
 
 ## April 22
 
 ### Materials
 
 ### Assignments due
-* Draft 2 of research report
+* Draft 2 of research report (or one week after you get feedback from both partners)
 
 ## April 29
 ### Assignments due
@@ -234,7 +235,8 @@ Further reading
 Additional class for presentations
 
 ### Assignments due
-* Final draft of research report
+* Final draft of research report (or 2 weeks after you get feedback from instructors)
+
 
 <!-- ead Teaching at Its Best -- Chapter 10 Perserving Academic Integrity (pg. 162 - 170)
 Read Case Studies for Today's Classroom - Case (pg. )-->
