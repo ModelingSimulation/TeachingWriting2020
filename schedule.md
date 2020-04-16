@@ -223,7 +223,8 @@ Further reading
 ### Materials
 
 ### Assignments due
-* Draft 2 of research report (or one week after you get feedback from both partners)
+* Draft 2 of research report, incorporating your partners' feedback. 
+If you haven't had at least a week to incorporate their feedback, or if you feel you need more time to edit, then please send Miranda an email explaining where you are in the editing process, and roughly when you expect to finish this draft.  
 
 ## April 29
 ### Assignments due
