@@ -228,7 +228,7 @@ Identity Salience and Shifts in Quantitative Performance"](https://drive.google.
 
 
 ### Assignments due
-* Draft 2 of research report, incorporating your partners' feedback.  
+* Draft 2 (3?) of research report, incorporating your partners' feedback.  
 Please name your new pdf YOURNAME_anythingelseyouwant.pdf.   
 If you haven't had at least a week to incorporate their feedback, or if you feel you need more time to edit, then please send Miranda an email explaining where you are in the editing process, and roughly when you expect to finish this draft.  
 
