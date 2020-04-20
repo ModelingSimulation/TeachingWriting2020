@@ -212,10 +212,10 @@ Further reading
 
 ### Materials
 
-* [Editing rubric (updated)](Resources/handout6-editingrubric_v2.pdf). and an [.odt verion](Resources/handout6-editingrubric_v2.odt)
 * Read [this article on inclusive teaching](https://www.chronicle.com/interactives/20190719_inclusive_teaching)
 * Read ["Stereotype Susceptibility:
 Identity Salience and Shifts in Quantitative Performance"](https://drive.google.com/file/d/100z5md0UkW0_Gwr0IJIb7-uz-G3TAw_9/view?usp=sharing), by Margaret Shih, Todd L. Pittinsky, and Nalini Ambady, _Psychological Science_, Vol 10 (1999). 
+* [Editing rubric (updated)](Resources/handout6-editingrubric_v2.pdf). and an [.odt verion](Resources/handout6-editingrubric_v2.odt)
 
 ### Assignments due
 * Provide feedback on your partners' reports. For each of your 2 partners, fill out your editing rubric (or provide comments of a similar nature), and send it to your partner and to mch328+homework. 
