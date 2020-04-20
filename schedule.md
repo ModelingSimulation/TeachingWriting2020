@@ -208,10 +208,14 @@ Further reading
 * _After_ you have edited your report once, and send your report to your [editing partners](https://drive.google.com/file/d/1bSqxcSIYHsxAF9eI9bTRM20rPOw7GVA3/view?usp=sharing). You are each assigned 2 editing partners. They will provide further edits, due next week.  Send them your report early, so they have time to provide thoughtful feedback. 
 
 ## April 15
+* Inclusive teaching
 
 ### Materials
 
 * [Editing rubric (updated)](Resources/handout6-editingrubric_v2.pdf). and an [.odt verion](Resources/handout6-editingrubric_v2.odt)
+* Read [this article on inclusive teaching](https://www.chronicle.com/interactives/20190719_inclusive_teaching)
+* Read ["Stereotype Susceptibility:
+Identity Salience and Shifts in Quantitative Performance"](https://drive.google.com/file/d/100z5md0UkW0_Gwr0IJIb7-uz-G3TAw_9/view?usp=sharing), by Margaret Shih, Todd L. Pittinsky, and Nalini Ambady, _Psychological Science_, Vol 10 (1999). 
 
 ### Assignments due
 * Provide feedback on your partners' reports. For each of your 2 partners, fill out your editing rubric (or provide comments of a similar nature), and send it to your partner and to mch328+homework. 
@@ -219,12 +223,15 @@ Further reading
 
 
 ## April 22
-* Inclusive teaching
+* Writing
+    * Concision
+    * Hedging
+    * Ambiguous pronouns like _This_ and _It_
+    * Conclusions (maybe)
 
 ### Materials
-* Read [this article on inclusive teaching](https://www.chronicle.com/interactives/20190719_inclusive_teaching)
-* Read ["Stereotype Susceptibility:
-Identity Salience and Shifts in Quantitative Performance"](https://drive.google.com/file/d/100z5md0UkW0_Gwr0IJIb7-uz-G3TAw_9/view?usp=sharing), by Margaret Shih, Todd L. Pittinsky, and Nalini Ambady, _Psychological Science_, Vol 10 (1999). 
+* [Handout 8 (Writing)](Resources/handout8.pdf). Edit this excerpt from a draft of "Sticky-sphere clusters", by Miranda Holmes-Cerfon, _Annual Reviews of Condensed Matter Physics_, 2017. The published article is [here](Resources/HolmesCerfon_ARCMP2017.pdf).
+* [Slides, class 10](Resources/slides-class10.pdf) TO BE POSTED
 
 
 ### Assignments due
@@ -232,10 +239,16 @@ Identity Salience and Shifts in Quantitative Performance"](https://drive.google.
 Please name your new pdf YOURNAME_anythingelseyouwant.pdf.   
 If you haven't had at least a week to incorporate their feedback, or if you feel you need more time to edit, then please send Miranda an email explaining where you are in the editing process, and roughly when you expect to finish this draft.  
 
+
 ## April 29
+
+### Materials
 ### Assignments due
+* Your next research report draft, if you haven't yet handed it in. 
+
 
 ## May 6
+### Materials
 ### Assignments due
 
 ## May 13
