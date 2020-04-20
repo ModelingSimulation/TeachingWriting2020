@@ -230,7 +230,7 @@ Identity Salience and Shifts in Quantitative Performance"](https://drive.google.
     * Conclusions (maybe)
 
 ### Materials
-* [Handout 8 (Writing)](Resources/handout8.pdf). Edit this excerpt from a draft of "Sticky-sphere clusters", by Miranda Holmes-Cerfon, _Annual Reviews of Condensed Matter Physics_, 2017. The published article is [here](Resources/HolmesCerfon_ARCMP2017.pdf).
+* [Handout 8 (Writing)](Resources/handout8.pdf). Contains an excerpt from a draft of "Sticky-sphere clusters", by Miranda Holmes-Cerfon, _Annual Reviews of Condensed Matter Physics_, 2017, for you to edit. The published article is [here](Resources/HolmesCerfon_ARCMP2017.pdf).
 * [Slides, class 10](Resources/slides-class10.pdf) TO BE POSTED
 
 
@@ -244,7 +244,7 @@ If you haven't had at least a week to incorporate their feedback, or if you feel
 
 ### Materials
 ### Assignments due
-* Your next research report draft, if you haven't yet handed it in. 
+* Draft 2/3 of your research report, if you haven't yet handed it in. 
 
 
 ## May 6
