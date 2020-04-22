@@ -225,14 +225,13 @@ Identity Salience and Shifts in Quantitative Performance"](https://drive.google.
 ## April 22
 * Writing
     * Concision
-    * Hedging
+    * Hedges and Intensifiers
     * Ambiguous pronouns like _This_ and _It_
-    * Conclusions (maybe)
 
 ### Materials
 * [Excerpt](https://drive.google.com/file/d/1E6HuQ1HihSHoaivxOsC9iQ_SwTrVhbE6/view?usp=sharing) from Chapter 9 of Williams & Bizup, summarizing our discussion of concision. Read all of Chapter 9, if you have the book.
 * [Handout 8 (Writing)](Resources/handout8.pdf). Contains an excerpt from a draft of "Sticky-sphere clusters", by Miranda Holmes-Cerfon, _Annual Reviews of Condensed Matter Physics_, 2017, for you to edit. The published article is [here](Resources/HolmesCerfon_ARCMP2017.pdf).
-* [Slides, class 10](Resources/slides-class10.pdf) TO BE POSTED
+* [Slides, class 10](Resources/slides-class10.pdf)
 
 
 ### Assignments due
@@ -248,7 +247,10 @@ If you haven't had at least a week to incorporate their feedback, or if you feel
 * Draft 2/3 of your research report, if you haven't yet handed it in. 
 
 
-## May 6
+## May 6 
+* Conclusions 
+* What do teaching & writing have in common? A discussion and review.
+    
 ### Materials
 ### Assignments due
 
