@@ -230,7 +230,7 @@ Identity Salience and Shifts in Quantitative Performance"](https://drive.google.
     * Conclusions (maybe)
 
 ### Materials
-* [Excerpt](https://drive.google.com/file/d/1YtQgGsPGQndHQQtXOiL58GWw0t-K-9Gw/view?usp=sharing) from Chapter 9 of Williams & Bizup, summarizing our discussion of concision. Read all of Chapter 9, if you have the book.
+* [Excerpt](https://drive.google.com/file/d/1E6HuQ1HihSHoaivxOsC9iQ_SwTrVhbE6/view?usp=sharing) from Chapter 9 of Williams & Bizup, summarizing our discussion of concision. Read all of Chapter 9, if you have the book.
 * [Handout 8 (Writing)](Resources/handout8.pdf). Contains an excerpt from a draft of "Sticky-sphere clusters", by Miranda Holmes-Cerfon, _Annual Reviews of Condensed Matter Physics_, 2017, for you to edit. The published article is [here](Resources/HolmesCerfon_ARCMP2017.pdf).
 * [Slides, class 10](Resources/slides-class10.pdf) TO BE POSTED
 
