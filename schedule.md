@@ -241,10 +241,17 @@ If you haven't had at least a week to incorporate their feedback, or if you feel
 
 
 ## April 29
-
+* Teaching
+   * Assessment: Grades
+   
 ### Materials
+* [How to Curve an Exam and Assign Grades](https://divisbyzero.com/2008/12/22/how-to-curve-an-exam-and-assign-grades/) posted on the Division by Zero blong by Dave Richeson on December 22, 2008
+* [Calculus Exam Scores Spreadsheet](https://docs.google.com/spreadsheets/d/1UgCbSXIGD3-gySTsxD7CB8VeDnxbt1onpciYSHxfj8Y/edit#gid=1384815747)
+
 ### Assignments due
 * Draft 2/3 of your research report, if you haven't yet handed it in. 
+* Read How to Curve and Exam and Assign Grades (linked above).
+* Exam Curving exercise: The spreadsheet linked above contains three sheets. The first sheets has the scores for a Calculus 1 final exam. The second sheet has the histroric grade distributions for the course and the third sheet has the grade cut offs for the course. Your task is to curve the exam. Be prepared to explain the method you used for your curve and why you chose it. You should also be able to quickly apply your curve to a given raw score. 
 
 
 ## May 6 
