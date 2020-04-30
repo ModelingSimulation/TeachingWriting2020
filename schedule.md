@@ -265,7 +265,9 @@ If you haven't had at least a week to incorporate their feedback, or if you feel
 Additional class for presentations
 
 ### Assignments due
-* Final draft of research report (or 2 weeks after you get feedback from instructors)
+* Final draft of research report (approximate)
+    * More rounds of editing are fine -- let Miranda or your partners know if you would like more feedback. 
+    * I'd like to make a collection of reports on the website. Please indicate if you are ok with yours being included in this collection. 
 
 
 <!-- ead Teaching at Its Best -- Chapter 10 Perserving Academic Integrity (pg. 162 - 170)
