@@ -260,6 +260,8 @@ If you haven't had at least a week to incorporate their feedback, or if you feel
 
     
 ### Materials
+* [Slides, class 11](Resources/slides-class11.pdf) TO BE UPDATED
+
 ### Assignments due
 
 ## May 13
