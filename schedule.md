@@ -255,18 +255,20 @@ If you haven't had at least a week to incorporate their feedback, or if you feel
 
 
 ## May 6 
-* Conclusions 
-* What do teaching & writing have in common? A discussion and review.
+* Teaching -- TBD
+* Writing -- Conclusions 
+
     
 ### Materials
 ### Assignments due
 
 ## May 13
-Additional class for presentations
+* Additional class for presentations
+* Discussion and Review: What do teaching & writing have in common? 
 
 ### Assignments due
 * Final draft of research report (approximate)
-    * More rounds of editing are fine -- let Miranda or your partners know if you would like more feedback. 
+    * More rounds of editing are fine -- let Miranda or your partners know if you would like more feedback from them. 
     * I'd like to make a collection of reports on the website. Please indicate if you are ok with yours being included in this collection. 
 
 
