@@ -260,7 +260,7 @@ If you haven't had at least a week to incorporate their feedback, or if you feel
 
     
 ### Materials
-* [Slides, class 11](Resources/slides-class11.pdf) TO BE UPDATED
+* [Slides, class 11](Resources/slides-class11.pdf) 
 * [Asking the right questions - Summary of discusion](Resources/Asking_the_right_questions.pdf)
 
 ### Assignments due
