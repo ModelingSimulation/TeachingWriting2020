@@ -260,14 +260,18 @@ If you haven't had at least a week to incorporate their feedback, or if you feel
 
     
 ### Materials
-* [Slides, class 11](Resources/slides-class11.pdf) 
 * [Asking the right questions - Summary of discusion](Resources/Asking_the_right_questions.pdf)
+* [Slides, class 11](Resources/slides-class11.pdf) 
 
 ### Assignments due
 
 ## May 13
 * Additional class for presentations
 * Discussion and Review: What do teaching & writing have in common? 
+
+### Materials
+* [What do teaching & writing have in common? - Summary of discussion](Resources/ReviewDiscussion.pdf)
+
 
 ### Assignments due
 * Final draft of research report (approximate)
