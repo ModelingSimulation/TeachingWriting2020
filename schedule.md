@@ -255,7 +255,7 @@ If you haven't had at least a week to incorporate their feedback, or if you feel
 
 
 ## May 6 
-* Teaching -- TBD
+* Teaching -- What questions should you ask when preparing to teach a course?
 * Writing -- Conclusions 
 
     
