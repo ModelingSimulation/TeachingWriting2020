@@ -26,6 +26,7 @@ This will be the main reference for the writing portion of the course. We highly
 
 ### Other Resources
 * _The Elements of Style,_ by Strunk and White.   
+
 A classic style manual, and a good way to revise English grammar. Freely available from a number of sources including [Project Gutenberg](http://www.gutenberg.org/ebooks/37134).
 * _Stylish Academic Writing,_ by Helen Sword.   
 This book goes beyond what we will cover in class, to give you techniques to write elegantly and stylishly. It is an easy, fun read. Available [online](https://getit.library.nyu.edu/go/9442159) with an NYU connection.
@@ -33,4 +34,21 @@ This book goes beyond what we will cover in class, to give you techniques to wri
 Available [online](https://epubs.siam.org/doi/book/10.1137/1.9780898719550) at with an NYU connection. 
 * _The Sense of Style,_ by Steven Pinker.  
 This lovely book gives many entertaining examples of good and bad writing, and shows the cognitive science behind what makes prose easier or harder to understand. 
+
+
+## Final Reports
+
+Here are students' final research reports. Browse them at your leisure to see the diversity of research areas at Courant. 
+
+* Aakash Kaku, [Towards quantitative rehabilitation of stroke patients via deep learning](Resources/reports/AakashKaku.pdf)
+* Freddy Law, [Multifidelity methods for assessing energy loss in tokamak fusion reactors](Resources/reports/FreddyLaw.pdf)
+* Irina Espejo, [Using Gaussian Processes to estimate excursion sets of black box functions](Resources/reports/IrinaEspejo.pdf)
+* Katrina Evtimova, [Sparse and Overcomplete Image Rerpesentations
+](Resources/reports/KatrinaEvtimova.pdf)
+* Ondrej Maxian, [Singularity methods and slender body theory](Resources/reports/OndrejMaxian.pdf)
+* Scott Weady, [Self-sculpting of melting ice by natural convection](Resources/reports/ScottWeady.pdf)
+* Sheng Liu, [Lower Bounds for Mutual Information in Representation Learning](Resources/reports/ShengLiu.pdf)
+* Sreyas Mohan, [How do neural networks denoise images?](Resources/reports/SreyasMohan.pdf)
+* Zhe Chen, [An FFT-based convolution method for mixed-periodic Boundary Conditions](Resources/reports/ZheChen.pdf)
+
 
