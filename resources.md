@@ -49,6 +49,7 @@ Here are students' final research reports. Browse them at your leisure to see th
 * Scott Weady, [Self-sculpting of melting ice by natural convection](Resources/reports/ScottWeady.pdf)
 * Sheng Liu, [Lower Bounds for Mutual Information in Representation Learning](Resources/reports/ShengLiu.pdf)
 * Sreyas Mohan, [How do neural networks denoise images?](Resources/reports/SreyasMohan.pdf)
+* Tristan Goodwill, [Towards a New Time-Harmonic Maxwell Solver for Non-smooth Surfaces](Resources/reports/TristanGoodwill.pdf)
 * Zhe Chen, [An FFT-based convolution method for mixed-periodic Boundary Conditions](Resources/reports/ZheChen.pdf)
 
 
