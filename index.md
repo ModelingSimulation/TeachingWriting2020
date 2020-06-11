@@ -2,11 +2,13 @@
 
 ## Site Map
 * [Course Overview](https://modelingsimulation.github.io/TeachingWriting2020/)
+    * [Final Reports]()
 * [Course Schedule](schedule.md)
 * [Resources](resources.md) 
-* [Final Reports](reports.md)
+
 
 # Course Overview
+
 ## Class Meetings
 Wednesdays 1:25-3:15pm in WWH 512
 
@@ -35,4 +37,5 @@ Students enrolled in this course will be expected to attend the class meetings a
 Postdocs are encouraged to  audit the course for professional development. Auditors will be expected to prepare for class by doing the assigned reading, and to participate fully in discussions and in-class activies. Auditors will not be ask to submit written assignments.
 
 
+# Final Reports
 
