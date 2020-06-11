@@ -2,7 +2,8 @@
 
 ## Site Map
 * [Course Overview](https://modelingsimulation.github.io/TeachingWriting2020/)
-    * [Final Reports]()
+    * [Information](#course-overview)
+    * [Final Reports](#final-reports)
 * [Course Schedule](schedule.md)
 * [Resources](resources.md) 
 
@@ -38,4 +39,21 @@ Postdocs are encouraged to  audit the course for professional development. Audit
 
 
 # Final Reports
+
+Here are students' final reports, which give an introduction to their areas of research and their research problems. Browse them at your leisure to see the diversity of research areas at Courant. 
+
+* Aakash Kaku, [Towards quantitative rehabilitation of stroke patients via deep learning](Resources/reports/AakashKaku.pdf)
+* Freddy Law, [Multifidelity methods for assessing energy loss in tokamak fusion reactors](Resources/reports/FreddyLaw.pdf)
+* Irina Espejo, [Using Gaussian Processes to estimate excursion sets of black box functions](Resources/reports/IrinaEspejo.pdf)
+* Katrina Evtimova, [Sparse and Overcomplete Image Rerpesentations
+](Resources/reports/KatrinaEvtimova.pdf)
+* Ondrej Maxian, [Singularity methods and slender body theory](Resources/reports/OndrejMaxian.pdf)
+* Scott Weady, [Self-sculpting of melting ice by natural convection](Resources/reports/ScottWeady.pdf)
+* Sheng Liu, [Lower Bounds for Mutual Information in Representation Learning](Resources/reports/ShengLiu.pdf)
+* Sreyas Mohan, [How do neural networks denoise images?](Resources/reports/SreyasMohan.pdf)
+* Tristan Goodwill, [Towards a New Time-Harmonic Maxwell Solver for Non-smooth Surfaces](Resources/reports/TristanGoodwill.pdf)
+* Xuenan Li, [Homogenization Theory for Maxwell Lattices](Resources/reports/XuenanLi.pdf)
+* Zhe Chen, [An FFT-based convolution method for mixed-periodic Boundary Conditions](Resources/reports/ZheChen.pdf)
+
+
 
