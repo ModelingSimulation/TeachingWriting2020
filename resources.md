@@ -36,20 +36,3 @@ Available [online](https://epubs.siam.org/doi/book/10.1137/1.9780898719550) at w
 This lovely book gives many entertaining examples of good and bad writing, and shows the cognitive science behind what makes prose easier or harder to understand. 
 
 
-## Final Reports
-
-Here are students' final research reports. Browse them at your leisure to see the diversity of research areas at Courant. 
-
-* Aakash Kaku, [Towards quantitative rehabilitation of stroke patients via deep learning](Resources/reports/AakashKaku.pdf)
-* Freddy Law, [Multifidelity methods for assessing energy loss in tokamak fusion reactors](Resources/reports/FreddyLaw.pdf)
-* Irina Espejo, [Using Gaussian Processes to estimate excursion sets of black box functions](Resources/reports/IrinaEspejo.pdf)
-* Katrina Evtimova, [Sparse and Overcomplete Image Rerpesentations
-](Resources/reports/KatrinaEvtimova.pdf)
-* Ondrej Maxian, [Singularity methods and slender body theory](Resources/reports/OndrejMaxian.pdf)
-* Scott Weady, [Self-sculpting of melting ice by natural convection](Resources/reports/ScottWeady.pdf)
-* Sheng Liu, [Lower Bounds for Mutual Information in Representation Learning](Resources/reports/ShengLiu.pdf)
-* Sreyas Mohan, [How do neural networks denoise images?](Resources/reports/SreyasMohan.pdf)
-* Tristan Goodwill, [Towards a New Time-Harmonic Maxwell Solver for Non-smooth Surfaces](Resources/reports/TristanGoodwill.pdf)
-* Zhe Chen, [An FFT-based convolution method for mixed-periodic Boundary Conditions](Resources/reports/ZheChen.pdf)
-
-
