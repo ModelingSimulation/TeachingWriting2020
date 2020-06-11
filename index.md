@@ -4,6 +4,7 @@
 * [Course Overview](https://modelingsimulation.github.io/TeachingWriting2020/)
 * [Course Schedule](schedule.md)
 * [Resources](resources.md) 
+* [Final Reports](reports.md)
 
 # Course Overview
 ## Class Meetings
