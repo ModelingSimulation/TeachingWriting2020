@@ -51,6 +51,7 @@ Here are students' final reports, which give an introduction to their areas of r
 * Scott Weady, [Self-sculpting of melting ice by natural convection](Resources/reports/ScottWeady.pdf)
 * Sheng Liu, [Lower Bounds for Mutual Information in Representation Learning](Resources/reports/ShengLiu.pdf)
 * Sreyas Mohan, [How do neural networks denoise images?](Resources/reports/SreyasMohan.pdf)
+* Sylvie Bronsard, [Why does a hula hoop stay up?](Resources/reports/SylvieBronsard.pdf)
 * Tristan Goodwill, [Towards a New Time-Harmonic Maxwell Solver for Non-smooth Surfaces](Resources/reports/TristanGoodwill.pdf)
 * Xuenan Li, [Homogenization Theory for Maxwell Lattices](Resources/reports/XuenanLi.pdf)
 * Zhe Chen, [An FFT-based convolution method for mixed-periodic Boundary Conditions](Resources/reports/ZheChen.pdf)
