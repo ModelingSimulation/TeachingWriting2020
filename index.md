@@ -45,7 +45,7 @@ Here are students' final reports, which give an introduction to their areas of r
 * Aakash Kaku, [Towards quantitative rehabilitation of stroke patients via deep learning](Resources/reports/AakashKaku.pdf)
 * Freddy Law, [Multifidelity methods for assessing energy loss in tokamak fusion reactors](Resources/reports/FreddyLaw.pdf)
 * Irina Espejo, [Using Gaussian Processes to estimate excursion sets of black box functions](Resources/reports/IrinaEspejo.pdf)
-* Katrina Evtimova, [Sparse and Overcomplete Image Rerpesentations
+* Katrina Evtimova, [Sparse and Overcomplete Image Representations
 ](Resources/reports/KatrinaEvtimova.pdf)
 * Ondrej Maxian, [Singularity methods and slender body theory](Resources/reports/OndrejMaxian.pdf)
 * Scott Weady, [Self-sculpting of melting ice by natural convection](Resources/reports/ScottWeady.pdf)
